@@ -10,3 +10,5 @@ document.getElementById('clear').onclick = function() {
     document.getElementById('yourText').value = '';
     document.getElementById('userName').value = '';
 };
+
+// Thx for watching!
